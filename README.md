@@ -1,16 +1,42 @@
-## Hi i'm lucasDev 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**123lucass/123lucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Jr** · Web Apps · APIs REST · SQL · Automation (n8n)
 
-Here are some ideas to get you started:
+📍 Corrientes, Argentina · 🗣️ English: Intermediate  
+🌐 **Portfolio:** https://portafoliolucasdev.netlify.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/lucas-dominguez-656b242b3/
+💻 **GitHub:** https://github.com/123lucass  
+📬 **Email:** lucasdominguez171901@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+- **Portfolio Web** — sitio personal para recruiters (modo oscuro, responsive, animaciones)
+  - 🔗 Demo: https://portafoliolucasdev.netlify.app
+  - 💻 Repo: (pegá el link del repo del portfolio)
+- **Lista de tareas** — práctica de DOM + UI
+  - 💻 Repo: https://github.com/123lucass/lista-de-tareas
+- **Calculadora** — práctica de JavaScript + UI
+  - 💻 Repo: https://github.com/123lucass/calculater
+
+---
+
+## 🧰 Tech Stack
+**Frontend:** HTML · CSS · JavaScript · (React)  
+**Backend:** APIs REST · JWT (en proyectos)  
+**DB:** SQL  
+**Automation:** n8n · Webhooks  
+**CS:** C/C++ · Stacks · Queues · Binary Trees  
+**Tools:** Git/GitHub · Live Server
+
+---
+
+## 📌 What I can deliver
+- Responsive UI + forms + validations
+- CRUD + REST API + DB
+- Authentication + roles (admin/user)
+- Automation workflows with n8n
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123lucass&layout=compact)
