@@ -13,7 +13,7 @@
 ## 🚀 Featured Projects
 - **Portfolio Web** — sitio personal para recruiters (modo oscuro, responsive, animaciones)
   - 🔗 Demo: https://portafoliolucasdev.netlify.app
-  - 💻 Repo: (pegá el link del repo del portfolio)
+  - 💻 Repo: https://github.com/123lucass/Portafolio.git
 - **Lista de tareas** — práctica de DOM + UI
   - 💻 Repo: https://github.com/123lucass/lista-de-tareas
 - **Calculadora** — práctica de JavaScript + UI
